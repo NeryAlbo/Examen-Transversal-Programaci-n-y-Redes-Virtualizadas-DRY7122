@@ -1,8 +1,6 @@
 integrantes = [
-    "Nombre Fernandez",
-    "Nombre Nunez",
-    "Nombre Toloza"
+    'Nery Fernandez',
+    'Javier Nunez' ,
+    'Ignacio Toloza'
 ]
-
-for integrante in integrantes:
-    print(integrante)
+print (integrantes)
